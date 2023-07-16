@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "private": "true",
   "description": "포트폴리오",
-  "source": "src/index.html",
+  "source": "docs/index.html",
   "scripts": {
     "start": "parcel -p 80",
     "build": "parcel build"
